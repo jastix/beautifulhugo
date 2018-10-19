@@ -69,3 +69,7 @@
   translation: "显示"
 - id: comments
   translation: "条评论" 
+
+# Related posts
+- id: seeAlso
+  translation: "也可以看看"
